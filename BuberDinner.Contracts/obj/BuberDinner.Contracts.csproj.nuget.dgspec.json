@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet projects\\BuberDinner\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\dotnet projects\\BuberDinner\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet projects\\BuberDinner\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\wordsysteme\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wordsysteme\\AppData\\Roaming\\NuGet\\NuGet.Config"
