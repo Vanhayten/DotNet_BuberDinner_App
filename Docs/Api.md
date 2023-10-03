@@ -21,6 +21,57 @@ POST {{host}}/auth/register
 
 ```json
 {
-    "firstName": "Ayoub"
+    "firstName": "Ayoub",
+    "lastName": "chaib",
+    "email": "ayoub.chaib.dev@gmail.com",
+    "password": "Ayoub123"
+}
+```
+
+### Register Response
+
+```js
+200 ok
+```
+
+```json
+{   
+    "id": "FAE04EC0-301F-11D3-BF4B-00C04F79EFBC",
+    "firstName": "Ayoub",
+    "lastName": "chaib",
+    "email": "ayoub.chaib.dev@gmail.com",
+    "token": "ejhf..efdrghy"
+}
+```
+
+
+### Login
+
+```js
+POST {{host}}/auth/login
+```
+
+### Login request
+
+```json
+{
+    "email": "ayoub.chaib.dev@gmail.com",
+    "password": "Ayoub123"
+}
+```
+
+### Login Response
+
+```js
+200 ok
+```
+
+```json
+{   
+    "id": "FAE04EC0-301F-11D3-BF4B-00C04F79EFBC",
+    "firstName": "Ayoub",
+    "lastName": "chaib",
+    "email": "ayoub.chaib.dev@gmail.com",
+    "token": "ejhf..efdrghy"
 }
 ```
