@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectUniqueName": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "projectName": "BuberDinner.Application",
-      "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "packagesPath": "C:\\Users\\wordsysteme\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\obj\\",
+      "outputPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wordsysteme\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -97,8 +97,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\dotnet projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-              "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+            "d:\\dotnet projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
             }
           }
         }

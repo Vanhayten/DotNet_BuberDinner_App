@@ -609,11 +609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectUniqueName": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "projectName": "BuberDinner.Api",
-      "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "packagesPath": "C:\\Users\\wordsysteme\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Api\\obj\\",
+      "outputPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wordsysteme\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -628,14 +628,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "d:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             },
-            "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-              "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            "d:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+              "projectPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
             },
-            "D:\\dotnet projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-              "projectPath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+            "d:\\dotnet projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }

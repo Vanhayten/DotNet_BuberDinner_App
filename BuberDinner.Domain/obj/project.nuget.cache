@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HqFLgJE+FhxY5gB0+rIRXdmqE4eBAk8H+1KjBGEg4ScwHPV6H0Rf6Im0N0OlcQZ5d1plXm1rAKqHwhR3cy51Wg==",
+  "dgSpecHash": "KDpQwdoFw+2zsxUjxPAF2/UVV4mMmDMlI/mehMm0DgZLQsBuONYPpaRwnwH39PubOH9nYCW9JkgXXzjm2fXe3A==",
   "success": true,
-  "projectFilePath": "D:\\dotnet projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+  "projectFilePath": "d:\\dotnet projects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
