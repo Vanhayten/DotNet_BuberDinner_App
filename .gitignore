@@ -4,7 +4,6 @@ BuberDinner.Contracts/bin/
 BuberDinner.Domain/bin/
 BuberDinner.Infrastructure/bin/
 
-
 BuberDinner.Api/obj/
 BuberDinner.Application/obj/
 BuberDinner.Contracts/obj/
