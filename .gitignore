@@ -1,12 +1,12 @@
-BuberDinner.Api/bin/Debug/
-BuberDinner.Application/bin/Debug/
-BuberDinner.Contracts/bin/Debug/
-BuberDinner.Domain/bin/Debug/
-BuberDinner.Infrastructure/bin/Debug/
+BuberDinner.Api/bin/
+BuberDinner.Application/bin/
+BuberDinner.Contracts/bin/
+BuberDinner.Domain/bin/
+BuberDinner.Infrastructure/bin/
 
 
-BuberDinner.Api/obj/Debug/
-BuberDinner.Application/obj/Debug/
-BuberDinner.Contracts/obj/Debug/
-BuberDinner.Domain/obj/Debug/
-BuberDinner.Infrastructure/obj/Debug/
+BuberDinner.Api/obj/
+BuberDinner.Application/obj/
+BuberDinner.Contracts/obj/
+BuberDinner.Domain/obj/
+BuberDinner.Infrastructure/obj/
